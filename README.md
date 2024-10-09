@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.jakemcrowley.com](https://www.jakemcrowley.com)
 
-- 📁 See my completed algorithms at **https://github.com/narrativityy/algos.git**
+- 📁 See my completed algorithms at [https://github.com/narrativityy/algos.git](https://github.com/narrativityy/algos.git)
 
 - 📫 How to reach me **jake@jakemcrowley.com**
 
